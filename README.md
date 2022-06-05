@@ -60,8 +60,7 @@ Stablecoins algorithmic or otherwise generally fit into a few categories as deta
 	- [Documentation](https://docs.floatprotocol.com/what-is-float-protocol/a-non-stable-stablecoin)
 	- [Litepaper Collection](https://observablehq.com/collection/@floatcoder/float-protocol-litepaper)
 - [Empty Set Dollar](https://emptyset.finance/)
-	- [Documentation](https://docs.emptyset.finance/0
-	- 
+	- [Documentation](https://docs.emptyset.finance/0)
 - [Dynamic Set Dollar](https://dynamicsetdollar.medium.com)
 	- [Introducing Dynamic Set Dollar](https://dynamicsetdollar.medium.com/introducing-dynamic-set-dollar-c35213651d59)
 	- [Whitepaper](https://github.com/emptysetsquad/dollar/blob/master/d%C3%B8llar.pdf)
@@ -82,34 +81,19 @@ Stablecoins algorithmic or otherwise generally fit into a few categories as deta
 	- [Introducing Prime Protocol](https://medium.com/@primeprotocol/introducing-prime-protocol-dd68948128d4)
 
 ### Bitcoin/Lightning Stablecoins
-
-**Synthetic USD / asset issuance side**
-
-Blockstream/C-lightning working on it (Not super familiar w their implementation beyond surface level): [https://blog.liquid.com/what-is-a-stablecoin-how-to-trade-stablecoins-on-liquid](https://blog.liquid.com/what-is-a-stablecoin-how-to-trade-stablecoins-on-liquid "https://blog.liquid.com/what-is-a-stablecoin-how-to-trade-stablecoins-on-liquid")
-
-Synonym (Tether) is probably closest to prod : [https://www.youtube.com/watch?v=Zfh-oOlt03I](https://www.youtube.com/watch?v=Zfh-oOlt03I "https://www.youtube.com/watch?v=zfh-oolt03i") [https://synonym.to/products/](https://synonym.to/products/ "https://synonym.to/products/")
-
-
-**On the oracle side (pegging sats natively)**
-
-General description of how its being looked at: [https://blog.mercury.cash/2021/01/15/what-are-dlc-smart-contracts-and-oracles/](https://blog.mercury.cash/2021/01/15/what-are-dlc-smart-contracts-and-oracles/ "https://blog.mercury.cash/2021/01/15/what-are-dlc-smart-contracts-and-oracles/")
-
-**Pure smart contract**
-
-this is basically relying on RGB to do it in similar ways to dai or ust, this is prob the dark horse in it all + longest to prod
-
-[https://www.youtube.com/watch?time_continue=1&v=dxD3gs2qI1A&feature=emb_title](https://www.youtube.com/watch?time_continue=1&v=dxD3gs2qI1A&feature=emb_title "https://www.youtube.com/watch?time_continue=1&v=dxd3gs2qi1a&feature=emb_title")
-
-**galoy**
-
-And theres galoy we talked about it a bit, they're doing a kind of mixed method relying on a financial intermediary/bank. They demo'd wallet and tech stack exists for this atm, probably in the running vs. Synonym. Worth watching their vid for specifics on how they're doing; starts here about 15 mins long [https://www.youtube.com/watch?v=IXbWwPiwJLY&t=5729s](https://www.youtube.com/watch?v=IXbWwPiwJLY&t=5729s "https://www.youtube.com/watch?v=ixbwwpiwjly&t=5729s")
-
-[Lighting Stablecoin](https://omnilab.online/omnibolt/)
+- [Settling Stablecoins on Liquid](https://blog.liquid.com/what-is-a-stablecoin-how-to-trade-stablecoins-on-liquid "https://blog.liquid.com/what-is-a-stablecoin-how-to-trade-stablecoins-on-liquid")
+- [Synonym (Tether)](https://synonym.to/products)
+	- [Overview](https://www.youtube.com/watch?v=Zfh-oOlt03I)
+- [RGB for Stablecoins](https://www.youtube.com/watch?time_continue=1&v=dxD3gs2qI1A&feature=emb_title)
+- [Omnibolt](https://omnilab.online/omnibolt/)
 
 ### Questionably a Stablecoin 
-- [OHM]()
+- [OHM](https://www.olympusdao.finance/)
+	- [Documentation](https://docs.olympusdao.finance/main/basics/basics)
+	- [The Game Theroy of OHM](https://olympusdao.medium.com/the-game-theory-of-olympus-e4c5f19a77df)
 	- [DeFi liquidity management via Optimal Control: Ohm as a case study](https://people.eecs.berkeley.edu/~ksk/files/Ohm_Liquidity_Management.pdf)
-- [TOMB]()
+- [TOMB](https://tomb.com/)
+	- [Documentation](https://docs.tomb.finance/)
 
 ## Selected Reading
 - [How Frax beats the Rest](https://mirror.xyz/jackchong.eth/iB_teRKgBaKm4OTKFmjf8hFAM55C1_i0Z2kf-KkYz2I)
