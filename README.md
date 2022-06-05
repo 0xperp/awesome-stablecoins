@@ -2,7 +2,7 @@
 
 ## A hopefully comprehensive guide to the stablecoin landscape
 
-Stablecoins algorithmic or otherwise generally fit into a few categories as detailed in Anthony Zhangs blog [Stablecoin Central Banking](https://medium.com/@anthonyleezhang/stablecoin-central-banking-the-next-frontier-7ac8a1aa478d). 
+Stablecoins algorithmic or otherwise generally fit into a few categories as detailed in [Anthony Zhangs](https://twitter.com/AnthonyLeeZhang) blog [Stablecoin Central Banking](https://medium.com/@anthonyleezhang/stablecoin-central-banking-the-next-frontier-7ac8a1aa478d). 
 
 |Type|Advantage|Disadvantage|
 |---|---|---|
