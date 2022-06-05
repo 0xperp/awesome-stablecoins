@@ -6,9 +6,9 @@ Stablecoins algorithmic or otherwise generally fit into a few categories as deta
 
 |Type|Advantage|Disadvantage|
 |---|---|---|
-|Fully Backed|||
-|Overcollateralized|||
-|Undercollateralized or Algorithmic|||
+| Fully Backed | 1:1 Redementions | Centralized, Regulatory Risk |
+| Overcollateralized | Full Redemntions, Decentralized | Capital Inefficient  |
+| Undercollateralized or Algorithmic | Depeg Risk | Captial Efficent, Decentralized | 
 
 ## Projects
 ### Fully Backed
@@ -96,6 +96,10 @@ Stablecoins algorithmic or otherwise generally fit into a few categories as deta
 	- [Documentation](https://docs.tomb.finance/)
 
 ## Selected Reading
+- [Algorithmic Stablecoins are impossible without continous funding](https://fragileequilibrium.substack.com/p/algorithmic-stablecoins-are-provably)
+- [Two Thought experiments on stablecoins](https://vitalik.ca/general/2022/05/25/stable.html)
+- [Capital Structures for Stablecoin Protocols: the Revenge of the Sith](https://dirtroads.substack.com/p/-37-capital-structures-for-stablecoin?s=w)
+- [Captial Structures for Stablecoins: Funding](https://dirtroads.substack.com/p/-38-capital-structures-for-stablecoin?s=r)
 - [How Frax beats the Rest](https://mirror.xyz/jackchong.eth/iB_teRKgBaKm4OTKFmjf8hFAM55C1_i0Z2kf-KkYz2I)
 - [The seniorage stablecoin model](https://smithandcrown.com/research/the-cryptoeconomics-of-seigniorage-shares-stablecoins-basis-and-carbon/)
 - - [A Stablecoin by Any Other Name: Value, Risk, Loss, and Gain](http://thinking.farm/essays/2021-01-14-stablecoin-by-any-other-name/)
