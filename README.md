@@ -8,7 +8,7 @@ Stablecoins algorithmic or otherwise generally fit into a few categories as deta
 |---|---|---|
 | Fully Backed | 1:1 Redementions | Centralized, Regulatory Risk |
 | Overcollateralized | Full Redemntions, Decentralized | Capital Inefficient  |
-| Undercollateralized or Algorithmic | Depeg Risk | Captial Efficent, Decentralized | 
+| Undercollateralized or Algorithmic | Captial Efficent, Decentralized | Depeg Risk | 
 
 ## Projects
 ### Fully Backed
